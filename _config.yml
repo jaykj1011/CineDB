@@ -12,6 +12,8 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Recommendations
+    url: /category/recommendations/
   - title: About
     url: /about
   - title: Contact
