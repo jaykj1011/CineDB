@@ -3,7 +3,7 @@ layout: post
 title: "Oppenheimer"
 author: "Jay"
 categories: [Recommendations]
-image: assets/images/Oppenheimer.webp
+image: [assets/images/Oppenheimer.webp](https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg)
 description: "A gripping look at the father of the atomic bomb."
 featured: true
 hidden: false
