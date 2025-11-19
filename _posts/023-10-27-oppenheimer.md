@@ -6,7 +6,7 @@ categories: [Recommendations]
 image: assets/images/Oppenheimer.webp
 description: "A gripping look at the father of the atomic bomb."
 featured: true
-hidden: true
+hidden: false
 rating: "9.5/10"
 director: "Christopher Nolan"
 cast: "Cillian Murphy, Emily Blunt, Matt Damon"
