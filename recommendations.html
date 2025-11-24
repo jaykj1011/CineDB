@@ -1,0 +1,28 @@
+---
+layout: default
+title: Recommendations
+permalink: /recommendations/
+---
+
+<main class="container">
+    <div class="row">
+        {% for post in site.categories.Recommendations %}
+        <div class="col-md-6">
+            <article class="post-card" style="margin-bottom: 20px;">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="post-card-image" 
+                   style="background-image: url({% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}); display: block; height: 300px; background-size: cover; background-position: center; border-radius: 5px;">
+                </a>
+                <div class="post-card-content">
+                    <a href="{{ site.baseurl }}{{ post.url }}" style="text-decoration: none; color: inherit;">
+                        <h2 style="margin-top: 10px;">{{ post.title }}</h2>
+                    </a>
+                    <p>{{ post.description }}</p>
+                    <span class="post-card-tags">
+                        Rating: {{ post.rating }}
+                    </span>
+                </div>
+            </article>
+        </div>
+        {% endfor %}
+    </div>
+</main>
