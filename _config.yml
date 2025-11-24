@@ -13,7 +13,7 @@ menu:
   - title: Home
     url: /
   - title: Recommendations
-    url: /category/recommendations/
+    url: /recommendations/
   - title: About
     url: /about
   - title: Contact
