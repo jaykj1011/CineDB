@@ -22,7 +22,13 @@ cast: "Cillian Murphy, Emily Blunt, Matt Damon"
 ---
 
 ### My Review
-This movie was visually stunning. The sound design alone deserves an award. I particularly loved how... [Write your full review here]
+This is not your standard biopic. It plays out like a thriller. The movie is divided into two distinct parts: "Fission" (color, subjective) and "Fusion" (black & white, objective).
+
+Cillian Murphy is haunting as Oppenheimer. You can feel the weight of the world on his shoulders just by looking at his eyes. The buildup to the Trinity Test sequence is a masterclass in tension—the sound design (and the silence) literally shook the theater.
+
+Robert Downey Jr. also gives a career-best performance as Lewis Strauss, proving he is much more than just Iron Man.
 
 ### Verdict
-Definitely watch this if you like historical dramas.
+A terrifying, beautiful, and important film. It demands to be seen on the biggest screen possible with the best sound system you can find.
+
+[Click here to see on IMDb](https://www.imdb.com/title/tt15398776/)
