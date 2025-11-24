@@ -15,7 +15,7 @@ cast: "Cillian Murphy, Emily Blunt, Matt Damon"
 ### Movie Details
 * **Director:** Christopher Nolan
 * **Cast:** Cillian Murphy, Emily Blunt, Matt Damon
-* **My Rating:** ⭐⭐⭐⭐⭐ (9.5/10)
+* **My Rating:** 9.1/10
 * **IMDb Rating:** 8.6/10
 * **Rotten Tomatoes:** 93%
 
