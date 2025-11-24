@@ -12,14 +12,13 @@ director: "Christopher Nolan"
 cast: "Christian Bale, Tom Hardy, Anne Hathaway"
 ---
 
-### Movie Info
-| **Role** | **Name** |
-| :--- | :--- |
-| **Director** | Christopher Nolan |
-| **Cast** | Christian Bale, Tom Hardy, Anne Hathaway, Joseph Gordon-Levitt |
-| **IMDb Rating** | **8.4** / 10 |
-| **Rotten Tomatoes** | **87%** |
-| **My Rating** | (8.3/10) |
+### Movie Details
+* **Director:** Christopher Nolan
+* **Cast:** Christian Bale, Tom Hardy, Anne Hathaway, Joseph Gordon-Levitt
+* **My Rating:** 8.3/10
+* **IMDb Rating:** 8.4/10
+* **Rotten Tomatoes:** 87%
+
 
 ---
 
