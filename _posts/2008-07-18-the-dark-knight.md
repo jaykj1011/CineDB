@@ -12,14 +12,12 @@ director: "Christopher Nolan"
 cast: "Christian Bale, Heath Ledger, Aaron Eckhart"
 ---
 
-### Movie Info
-| **Role** | **Name** |
-| :--- | :--- |
-| **Director** | Christopher Nolan |
-| **Cast** | Christian Bale, Heath Ledger, Aaron Eckhart, Morgan Freeman |
-| **IMDb Rating** | **9.0** / 10 |
-| **Rotten Tomatoes** | **94%** |
-| **My Rating** | (10/10) |
+### Movie Details
+* **Director:** Christopher Nolan
+* **Cast:** Christian Bale, Heath Ledger, Aaron Eckhart, Morgan Freeman
+* **My Rating:** 10/10
+* **IMDb Rating:** 9.0/10
+* **Rotten Tomatoes:** 94%
 
 ---
 
