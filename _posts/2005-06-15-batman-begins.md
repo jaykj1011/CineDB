@@ -19,7 +19,7 @@ cast: "Christian Bale, Michael Caine, Liam Neeson"
 | **Cast** | Christian Bale, Michael Caine, Liam Neeson, Gary Oldman |
 | **IMDb Rating** | **8.2** / 10 |
 | **Rotten Tomatoes** | **84%** |
-| **My Rating** | ⭐⭐⭐⭐ (8.5/10) |
+| **My Rating** | (8.8/10) |
 
 ---
 
