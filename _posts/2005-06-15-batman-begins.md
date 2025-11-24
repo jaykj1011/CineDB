@@ -12,14 +12,12 @@ director: "Christopher Nolan"
 cast: "Christian Bale, Michael Caine, Liam Neeson"
 ---
 
-### Movie Info
-| **Role** | **Name** |
-| :--- | :--- |
-| **Director** | Christopher Nolan |
-| **Cast** | Christian Bale, Michael Caine, Liam Neeson, Gary Oldman |
-| **IMDb Rating** | **8.2** / 10 |
-| **Rotten Tomatoes** | **84%** |
-| **My Rating** | (8.8/10) |
+### Movie Details
+* **Director:** Christopher Nolan
+* **Cast:** Christian Bale, Michael Caine, Liam Neeson, Gary Oldman
+* **My Rating:** 8.6/10
+* **IMDb Rating:** 8.2/10
+* **Rotten Tomatoes:** 84%
 
 ---
 
