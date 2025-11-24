@@ -9,7 +9,7 @@ featured: true
 hidden: false
 rating: "9.5/10"
 director: "Christopher Nolan"
-cast: "Cillian Murphy, Emily Blunt, Matt Damon"
+cast: "Matthew McConaughey, Anne Hathaway, Michael Caine, Matt Damon"
 ---
 
 ### Movie Details
